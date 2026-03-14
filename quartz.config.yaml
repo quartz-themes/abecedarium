@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz-themes.github.io/abecedarium
+  baseUrl: quartz-themes.github.io/abecedarium/abecedarium
   ignorePatterns:
     - private
     - templates
